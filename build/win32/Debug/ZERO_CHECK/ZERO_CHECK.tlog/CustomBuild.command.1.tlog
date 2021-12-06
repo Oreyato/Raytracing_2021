@@ -1,0 +1,10 @@
+^G:\COURS\PROGRA\C++\003\RAYTRACING\BUILD\CMAKEFILES\9EC03EE5D94EFE8994033904284766EF\GENERATE.STAMP.RULE
+setlocal
+G:\C++\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -SG:/Cours/Progra/C++/003/Raytracing -BG:/Cours/Progra/C++/003/Raytracing/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file G:/Cours/Progra/C++/003/Raytracing/build/Raytracer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

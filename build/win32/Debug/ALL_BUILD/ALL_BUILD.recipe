@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>G:\Cours\Progra\C++\003\Raytracing\build\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>G:\Cours\Progra\C++\003\Raytracing\build\Debug\Raytracer.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>G:\Cours\Progra\C++\003\Raytracing\build\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
